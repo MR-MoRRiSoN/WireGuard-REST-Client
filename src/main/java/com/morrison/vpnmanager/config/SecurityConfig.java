@@ -1,4 +1,4 @@
-package com.morrison.vpnmanager;
+package com.morrison.vpnmanager.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
