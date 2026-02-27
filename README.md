@@ -1,4 +1,4 @@
-# RemotePlay VPN Manager
+# WireGuard REST Client
 
 > A lightweight custom REST API for managing WireGuard VPN — built with Spring Boot.
 
@@ -10,7 +10,7 @@
 
 ## 📋 About
 
-**RemotePlay VPN Manager** is a Spring Boot REST API that wraps WireGuard's CLI into clean HTTP endpoints. Nothing groundbreaking — but if you need a **simple, free, self-hosted solution** to manage WireGuard programmatically without paying for commercial tools like Tailscale or WireGuard Business, this does the job well.
+**WireGuard REST Client** is a Spring Boot REST API that wraps WireGuard's CLI into clean HTTP endpoints. Nothing groundbreaking — but if you need a **simple, free, self-hosted solution** to manage WireGuard programmatically without paying for commercial tools like Tailscale or WireGuard Business, this does the job well.
 
 It handles peer creation, session management, time-limited access, and real-time connection monitoring — all over a straightforward REST interface.
 
@@ -92,8 +92,8 @@ It handles peer creation, session management, time-limited access, and real-time
 ### Installation
 
 ```bash
-git clone https://github.com/MR-MoRRiSoN/RemotePlay_VPN_MANAGER.git
-cd RemotePlay_VPN_MANAGER
+git clone https://github.com/MR-MoRRiSoN/WireGuard-REST-Client.git
+cd WireGuard-REST-Client
 ```
 
 ### Configuration
@@ -131,4 +131,4 @@ Never commit real credentials to the repository. Use environment variables or Gi
 
 ## 📄 License
 
-This project is proprietary. All rights reserved © 2026 RemotePlay.
+This project is proprietary. All rights reserved © 2026 WireGuard REST Client.
